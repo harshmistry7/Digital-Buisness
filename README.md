@@ -76,8 +76,18 @@ Ensure you have the following installed:
 
 ## 📁 Project Structure (Example for App Router)
 
-Digital-Buisness/├── app/                      # Main application folder (App Router)│   ├── layout.js             # Root layout│   ├── page.js               # Main page│   └── ...                   # Other routes and components├── public/                   # Static assets (images, fonts, etc.)├── src/                      # Optional: Alternative components/modules folder│   └── components/           # Reusable UI components├── .eslintrc.json            # ESLint configuration├── next.config.js            # Next.js configuration├── package.json              # Project dependencies and scripts└── README.md                 # This fileAdjust the structure explanation if you are using the Pages Router or a different convention.
-
+Digital-Buisness/
+├── app/                      # Main application folder (App Router)
+│   ├── layout.js             # Root layout
+│   ├── page.js               # Main page
+│   └── ...                   # Other routes and components
+├── public/                   # Static assets (images, fonts, etc.)
+├── src/                      # Optional: Alternative components/modules folder
+│   └── components/           # Reusable UI components
+├── .eslintrc.json            # ESLint configuration
+├── next.config.js            # Next.js configuration
+├── package.json              # Project dependencies and scripts
+└── README.md                 # This file
 ## 📖 Learn More About Next.js
 
 To learn more about Next.js, take a look at the following resources:
